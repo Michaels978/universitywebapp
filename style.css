@@ -1,0 +1,82 @@
+/* login page border and centering */
+.loginborder
+{    
+    border-style: solid;
+    margin: auto;
+    max-width: 600px;
+    padding: 2rem;
+}
+
+/* add timetable page border and centering */
+.addingborder
+{
+    border-style: solid;
+    margin: auto;
+    max-width: 1000px;
+    padding: 2rem;
+}
+
+/* edit timetable page border and centering */
+.editborder
+{
+    border-style: solid;
+    margin: auto;
+    max-width: 1000px;
+    padding: 2rem;
+}
+
+/* social media links on footer */
+.socialmedia a
+{
+    color: white;
+    font-size: 25px;
+    border: 1px solid white;
+    width: 40px;
+    height: 40px;    
+    display: inline-block;
+    border-radius: 50%;
+    margin: 5px;
+    opacity: 0.90;
+}
+
+/* social media links get darker when hovered over with mouse */
+.socialmedia a:hover
+{
+    opacity: 0.10;
+}
+
+/* address in the footer spaced out */
+.footeraddress
+{
+    text-indent: 50px;
+}
+
+/* phone number in the footer spaced out */
+.addressphone
+{
+    text-indent: 50px;
+    margin-right: 4rem;
+}
+
+/* About page content has been put more into the center */
+.aboutp
+{
+    margin: 4rem;
+}
+
+/* scroll to top button */
+.top
+{
+    position: fixed;
+    border-style: solid;
+    width: 50px;
+    height: 40px;
+    background: deepskyblue;
+    color: black;
+    bottom: 110px;
+    right: 25px;
+    font-size: xx-large;
+    font-family: Sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
